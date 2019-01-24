@@ -1,32 +1,32 @@
-input.new-task-input{
-    border-top: 0px;
-    border-left: 0px;
-    border-right: 0px;
-    outline: none;
-    text-align: center;
-    border-bottom: 2px solid darkslategray;
+input.new-task-input {
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  outline: none;
+  text-align: center;
+  border-bottom: 2px solid darkslategray;
 }
 
-input.new-task-input:focus{
-    border-top: 0px;
-    border-left: 0px;
-    border-right: 0px;
-    border-bottom: 2px solid slategray;
+input.new-task-input:focus {
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 2px solid slategray;
 }
 
-button.add-task-button{
-    border-radius: 5px;
-    outline:none;
-    background-color: slategray;
-    border:none;
-    color:white;
-    box-shadow: 1px 1px 1px 1px;
+button.add-task-button {
+  border-radius: 5px;
+  outline:none;
+  background-color: slategray;
+  border:none;
+  color:white;
+  box-shadow: 1px 1px 1px 1px;
 }
 
 button.add-task-button:active{
-    background-color: darkslategray;
+  background-color: darkslategray;
 }
 
 .fake{
-    grid-auto-flow: column;
+  grid-auto-flow: column;
 }
