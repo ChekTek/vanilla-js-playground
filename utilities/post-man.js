@@ -1,5 +1,5 @@
 
-let url = 'http://localhost:9080/leasedealmgmt/app/v1/field-deal-approval/test';
+let url = '';
 
 function postData(url = ``, data = {}) {
     // Default options are marked with *
